@@ -16,6 +16,11 @@ gem 'bcrypt', '~> 3.1.7'
 gem 'uglifier'
 gem 'webpacker'
 
+gem 'devise'
+gem 'activeadmin'
+
+
+
 group :development do
   gem 'web-console', '>= 3.3.0'
 end
